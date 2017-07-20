@@ -1,0 +1,56 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+
+    <!--Name hint at Name field [CHAR LIMIT=20]-->
+    <string name="Name_hint">Name</string>
+
+    <!--Header text for the list of toppings [CHAR LIMIT=20]-->
+    <string name="toppings">Toppings</string>
+
+    <!--Whipped cream tick box [CHAR LIMIT=20]-->
+    <string name="Whipped_cream">Whipped Cream</string>
+
+    <!--Chocolate tick box [CHAR LIMIT=20]-->
+    <string name="Chocolate">Chocolate</string>
+
+    <!--Header text for quantity [CHAR LIMIT=20]-->
+    <string name="quantity">Quantity</string>
+
+    <!--Order button text [CHAR LIMIT=20]-->
+    <string name="order">Order</string>
+
+    <!--Toast text warning when user trying to order MORE than 100 coffee [CHAR LIMIT=NONE]-->
+    <string name="toast_100">You can not order more than 100 coffee</string>
+
+    <!--Toast text warning when user trying to order LESS than 1 coffee [CHAR LIMIT=NONE]-->
+    <string name="toast_1">You can not order less than 1 coffee</string>
+
+    <!--Order summary section below-->
+    <!--Order summary section below-->
+    <!--Order summary section below-->
+
+    <!--Name for the order summary. It will be shown in the format of "Name : Yuri" where Yuri is the user's name. [CHAR LIMIT=NONE]-->
+    <string name="order_summary_name">Name : <xliff:g id="gotName" example="Yuri">%s</xliff:g> </string>
+
+    <!--Email Subject for the order summary. [CHAR LIMIT=NONE]-->
+    <string name="order_summary_email">Just Java Order for <xliff:g id="gotName" example="Yuri">%s</xliff:g> </string>
+
+    <!--Add whipped cream for the order summary. It will be shown in the format of "Add Whipped Cream? True" where True is the condition
+    whether user's want to use Whipped Cream or not. [CHAR LIMIT=NONE]-->
+    <string name="order_summary_whipped">Add Whipped Cream? <xliff:g id="withWhipped" example="true">%b</xliff:g></string>
+
+    <!--Add Chocolate for the order summary. It will be shown in the format of "Add Chocolate? True" where True is the condition
+    whether user's want to use Chocolate or not. [CHAR LIMIT=NONE]-->
+    <string name="order_summary_chocolate">Add Chocolate? <xliff:g id="withChoco" example="true">%b</xliff:g></string>
+
+    <!--Quantity for the order summary. It will be shown in the format of "Quantity : 2" where 2 is the quantity of
+    coffee that user's want to order. [CHAR LIMIT=NONE]-->
+    <string name="order_summary_quantity">Quantity : <xliff:g id="quantity" example="2">%d</xliff:g></string>
+
+    <!--Total for the order summary. It will be shown in the format of "Total : $5" where 2 is the total price that user
+    have to pay [CHAR LIMIT=NONE]-->
+    <string name="order_summary_total">Total : <xliff:g id="price" example="5">%s</xliff:g></string>
+
+    <!--Thank you message for the order summary. [CHAR LIMIT=NONE]-->
+    <string name="thank_you">Thank You</string>
+</resources>
