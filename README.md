@@ -7,7 +7,7 @@ Users can input Their names, what toppings, and how many cups that they want. An
 Its my practice project when enroll [Android Basic Nanodegree by Udacity (free version)](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 
 
-I'm not author of this project and also not fully written by me (Sometimes, I'm search some solution (then modify it to fit with my problem) when I'm getting very confused about with the teacher's explanation)
+I'm not author of this project and sometimes, I'm search some solution (then modify it to fit with my problem) when I'm getting very confused about with the teacher's explanation.
 
 Do with them what you want (please use it wisely) and feel free to send updates or improvements or ideas.
 Also, if you are getting confused with certain code, please don't hesitate to contact me.
